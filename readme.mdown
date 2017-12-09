@@ -1,0 +1,14 @@
+#Website Hidroponik Sragen
+
+### Acknowledgments
+https://github.com/insanelogic29/hidroponiksragen/tree/nithata
+
+# Proyek Sistem Informasi
+Proyek Akhir Semester 5
+
+Anggota :
+1. Ritzana Aisyah Aminy (15/380445/SV/08252)
+2. Afif Imaduddin (15/384461/SV/08818)
+3. Alviska Galuh Nurwana (15/386051/SV/09437)
+4. Nitha Huwaida Hafizha  (15/386075/SV/09461)
+5. Odiaz Bumma (15/386077/SV/09463)
